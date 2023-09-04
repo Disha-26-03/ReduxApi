@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+  img{
+    height: 700;
+    width: 700
+  }
+/* button{
+    display: flex;
+    justify-content: center;
+} */
